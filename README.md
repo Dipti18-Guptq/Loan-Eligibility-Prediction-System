@@ -1,18 +1,22 @@
-Team Members
+# Loan Eligibility Prediction System
 
-DIPTI GUPTA(2400290130075),
+A software system that predicts preliminary loan eligibility from applicant information such as income, credit history, loan amount, employment status and education.
 
-DIKSHA VERMA(2400290130075),
+## Team
+1. DIPTI GUPTA – Project Manager & GenAI
+2. DIKSHA VERMA – Backend Developer
+3. KASHIKA MAURYA – Frontend Developer & Testing/QA
 
-KASHIKA MAURYA(2400290130100)
+## Contributions
+- DIPTI GUPTA: Project management, GenAI integration & prompt design, SRS, requirements, UML, documentation, GitHub coordination.
+- DIKSHA VERMA: Backend development, API/data integration, supporting implementation.
+- KASHIKA MAURYA: Frontend/UI development, test cases, validation, bug reporting and quality checks.
 
-_**Loan Eligibility Prediction System**_
+## Documentation
+- docs/SRS/
+- docs/Requirement_Report/
+- docs/UML/
+- Experiment_1/
 
-Loan Eligibility Prediction System is a Machine Learning project that predicts whether a person is likely to be eligible for a loan based on details such as income, credit history, loan amount, employment status, education, and other financial factors.
-
-How it works:
-Input: User provides personal and financial information.
-Data Processing: The system cleans and prepares the data.
-ML Model: A classification algorithm such as Logistic Regression, Decision Tree, Random Forest, or SVM analyzes the data.
-Prediction: The system predicts Loan Approved / Loan Not Approved.
-Result: The prediction is displayed to the user through a simple interface.
+## Repository
+https://github.com/Dipti18-Guptq/Loan-Eligibility-Prediction-System

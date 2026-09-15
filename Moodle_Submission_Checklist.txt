@@ -1,0 +1,34 @@
+MOODLE SUBMISSION CHECKLIST
+
+GitHub Repository:
+https://github.com/Dipti18-Guptq/Loan-Eligibility-Prediction-System
+
+Submit:
+1. GitHub repository link
+2. SRS
+3. Requirement Report
+4. UML diagrams: Use Case, Activity, Sequence, Class
+5. Experiment 1 document, if required separately
+
+Final Contribution Split:
+
+DIPTI GUPTA – Project Manager & GenAI
+- Project management
+- GenAI integration & prompt design
+- SRS
+- Requirements
+- UML
+- Documentation
+- GitHub coordination
+
+DIKSHA VERMA – Backend Developer
+- Backend development
+- API/data integration
+- Supporting implementation
+
+KASHIKA MAURYA – Frontend Developer & Testing/QA
+- Frontend/UI development
+- Test cases
+- Validation
+- Bug reporting
+- Quality checks
