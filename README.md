@@ -1,4 +1,10 @@
-# 2026-27_ITB_2400290130074
+Team Members
+DIPTI GUPTA(2400290130075)
+DIKSHA VERMA(2400290130075)
+KASHIKA MAURYA(2400290130100)
+
+_**Loan Eligibility Prediction System**_
+
 Loan Eligibility Prediction System is a Machine Learning project that predicts whether a person is likely to be eligible for a loan based on details such as income, credit history, loan amount, employment status, education, and other financial factors.
 
 How it works:
